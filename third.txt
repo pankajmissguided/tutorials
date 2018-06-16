@@ -1,1 +1,2 @@
 this is my third text file
+making changes in 2 files together and see what happen
