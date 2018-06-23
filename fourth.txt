@@ -1,2 +1,0 @@
-this is the forth file i am comiting
-i am adding more file to this file and want to check how we could see the modified in git bash
